@@ -1,0 +1,9 @@
+sort_type,data_size,run_time
+Count Sort,1000,3278925
+Count Sort,2000,5935391
+Count Sort,4000,12242491
+Count Sort,8000,24459483
+Count Sort,16000,48502845
+Count Sort,32000,100629170
+Count Sort,64000,234717479
+Count Sort,128000,382901804
